@@ -1,0 +1,1 @@
+[![Tests](https://github.com/RMike1/lostnfound/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/RMike1/lostnfound/actions/workflows/test.yml)
